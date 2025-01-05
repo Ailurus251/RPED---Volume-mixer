@@ -10,9 +10,7 @@ Důležité upozornění:
 Při stažení aplikace se může stát, že ji antivirový software označí jako potenciální hrozbu. To je způsobeno absencí digitálního podpisu, nikoliv přítomností škodlivého kódu. Na tomto problému pracujeme a v budoucnu plánujeme jeho vyřešení.
 
 Tato aplikace je ideální volbou pro každého, kdo hledá spolehlivý a moderní nástroj pro správu hlasitosti kompatibilní s Arduino zařízeními.
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Volume Mixer is an application developed by RPED, primarily designed for their products. However, its universal compatibility makes it suitable for any hardware based on the Arduino platform.
 
 Key Features:
